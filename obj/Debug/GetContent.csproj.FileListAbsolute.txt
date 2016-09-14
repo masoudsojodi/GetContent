@@ -1,0 +1,6 @@
+C:\Users\SIREN2\Documents\Visual Studio 2013\getContent\GetContent\GetContent\bin\GetContent.dll.config
+C:\Users\SIREN2\Documents\Visual Studio 2013\getContent\GetContent\GetContent\bin\GetContent.dll
+C:\Users\SIREN2\Documents\Visual Studio 2013\getContent\GetContent\GetContent\bin\GetContent.pdb
+C:\Users\SIREN2\Documents\Visual Studio 2013\getContent\GetContent\GetContent\obj\Debug\GetContent.csprojResolveAssemblyReference.cache
+C:\Users\SIREN2\Documents\Visual Studio 2013\getContent\GetContent\GetContent\obj\Debug\GetContent.dll
+C:\Users\SIREN2\Documents\Visual Studio 2013\getContent\GetContent\GetContent\obj\Debug\GetContent.pdb
